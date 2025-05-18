@@ -2,6 +2,11 @@
 
 This project was created in 2020 as a beginning step to create a fully-customized dashboard used by traders. It is basically a user interface that displays financial data in real time (or near real time) to help traders make informed decisions. It's used in stock, forex, crypto, and commodities markets.
 
+## 📸 Screenshot
+
+![Dashboard Preview](./dashboard.jpg)
+
+
 ## 🚀 Features
 
 ### `Clarity`
